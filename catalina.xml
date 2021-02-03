@@ -1,0 +1,91 @@
+<background>
+  <starttime>
+    <year>2021</year>
+    <month>1</month>
+    <day>1</day>
+    <hour>22</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 22:00 -->
+  <static>
+    <duration>28795.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/1.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/2.jpg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/2.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/3.jpg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>14395.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/3.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/4.jpg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/4.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/5.jpg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/5.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/6.jpg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/6.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/7.jpg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/7.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/8.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/8.jpg</from>
+    <to>/home/mchung/local/src/catalina-dynamic-wallpaper-on-ubuntu/Wallpapers/1.jpg</to>
+  </transition>
+</background>
+
